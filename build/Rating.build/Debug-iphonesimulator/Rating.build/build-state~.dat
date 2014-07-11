@@ -1,0 +1,170 @@
+TRating
+v7
+r1
+cCheck dependencies
+cDataModelVersionCompile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Rating.momd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Rating.xcdatamodeld
+cCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerDetailsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+CCheck dependencies
+r0
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc38366108a6eb941^4e2a7a108a6eb941^-338"warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayersViewController.h' of type sourcecode.c.h for architecture armv7warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.h' of type sourcecode.c.h for architecture armv72(21%IDEActivityLogMessage2@173"Warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayersViewController.h' of type sourcecode.c.h for architecture armv7-426674704#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@163"Warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.h' of type sourcecode.c.h for architecture armv7-426674704#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"A891C720-625B-47EF-80E3-D093E4A37323-
+
+CCompileAssetCatalog /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Images.xcassets
+r0
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426674704.479453
+e426674704.509109
+r0
+xCompileC
+xbuild/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.o
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: [0;1;31merror: [0m[1minvalid architecture 'arm' for deployment target '-mios-simulator-version-min=7.0'[0m
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.m212"[1mCompileC[0m build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.o Rating/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerace17a108a6eb941^d8f381108a6eb941^-249"clang: [0;1;31merror: [0m[1minvalid architecture 'arm' for deployment target '-mios-simulator-version-min=7.0'[0mCommand /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@130"Command /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-426674704#18446744073709551615#0#-2#--20"Apple LLVM 6.0 Error--0#0#1#-19%DVTDocumentLocation3@89"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.m0000000000000000^3905"[1mCompileC[0m build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.o Rating/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=116 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-prune-interval=86400 -fmodules-prune-after=345600 -Wnon-modular-include-in-framework-module -Werror=non-modular-include-in-framework-module -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wunreachable-code -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DOBJC_OLD_DISPATCH_PROTOTYPES=0 -isysroot /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -fexceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-generated-files.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-own-target-headers.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-all-target-headers.hmap -iquote /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-project-headers.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/include -I/Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/DerivedSources/armv7 -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/DerivedSources -F/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.d --serialize-diagnostics /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.dia -c /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.m -o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.o36"D6BA34DF-892A-4E17-9AA0-891144C0DA91-
+b74CBF632-72FF-45A6-8013-5C5049AF1A56
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/GamePickerViewController.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/GamePickerViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/Player.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Player.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerCell.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerDetailsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426674704.478550
+e426674704.508876
+r0
+xCompileC
+xbuild/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.o
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerDetailsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: [0;1;31merror: [0m[1minvalid architecture 'arm' for deployment target '-mios-simulator-version-min=7.0'[0m
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerDetailsViewController.m227"[1mCompileC[0m build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.o Rating/PlayerDetailsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere2ae7a108a6eb941^81ec81108a6eb941^-249"clang: [0;1;31merror: [0m[1minvalid architecture 'arm' for deployment target '-mios-simulator-version-min=7.0'[0mCommand /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@130"Command /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-426674704#18446744073709551615#0#-2#--20"Apple LLVM 6.0 Error--0#0#1#-19%DVTDocumentLocation3@105"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerDetailsViewController.m0000000000000000^3933"[1mCompileC[0m build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.o Rating/PlayerDetailsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=116 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-prune-interval=86400 -fmodules-prune-after=345600 -Wnon-modular-include-in-framework-module -Werror=non-modular-include-in-framework-module -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wunreachable-code -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DOBJC_OLD_DISPATCH_PROTOTYPES=0 -isysroot /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -fexceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-generated-files.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-own-target-headers.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-all-target-headers.hmap -iquote /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-project-headers.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/include -I/Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/DerivedSources/armv7 -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/DerivedSources -F/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.d --serialize-diagnostics /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.dia -c /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerDetailsViewController.m -o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.o36"702C5716-70B0-4C37-B4D4-4D548006840C-
+b74CBF632-72FF-45A6-8013-5C5049AF1A56
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayersViewController-14D10173E3B3F27B.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayersViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426674704.479635
+e426674704.507925
+r0
+xCompileC
+xbuild/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.o
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: [0;1;31merror: [0m[1minvalid architecture 'arm' for deployment target '-mios-simulator-version-min=7.0'[0m
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/main.m181"[1mCompileC[0m build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.o Rating/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler6bf47a108a6eb941^4be581108a6eb941^-249"clang: [0;1;31merror: [0m[1minvalid architecture 'arm' for deployment target '-mios-simulator-version-min=7.0'[0mCommand /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@130"Command /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-426674704#18446744073709551615#0#-2#--20"Apple LLVM 6.0 Error--0#0#1#-19%DVTDocumentLocation3@82"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/main.m0000000000000000^3795"[1mCompileC[0m build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.o Rating/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=116 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-prune-interval=86400 -fmodules-prune-after=345600 -Wnon-modular-include-in-framework-module -Werror=non-modular-include-in-framework-module -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wunreachable-code -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DOBJC_OLD_DISPATCH_PROTOTYPES=0 -isysroot /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -fexceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-generated-files.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-own-target-headers.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-all-target-headers.hmap -iquote /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-project-headers.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/include -I/Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/DerivedSources/armv7 -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/DerivedSources -F/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.dia -c /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/main.m -o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.o36"C6A520F5-69D8-45CF-9369-F2DE878F0FC3-
+b74CBF632-72FF-45A6-8013-5C5049AF1A56
+
+CCompileStoryboard /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard
+r0
+
+CCpResource Images/1Star.png build/Debug-iphonesimulator/Rating.app/1Star.png
+r0
+
+CCpResource Images/1Star@2x.png build/Debug-iphonesimulator/Rating.app/1Star@2x.png
+r0
+
+CCpResource Images/1StarSmall.png build/Debug-iphonesimulator/Rating.app/1StarSmall.png
+r0
+
+CCpResource Images/1StarSmall@2x.png build/Debug-iphonesimulator/Rating.app/1StarSmall@2x.png
+r0
+
+CCpResource Images/2Stars.png build/Debug-iphonesimulator/Rating.app/2Stars.png
+r0
+
+CCpResource Images/2Stars@2x.png build/Debug-iphonesimulator/Rating.app/2Stars@2x.png
+r0
+
+CCpResource Images/2StarsSmall.png build/Debug-iphonesimulator/Rating.app/2StarsSmall.png
+r0
+
+CCpResource Images/2StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/2StarsSmall@2x.png
+r0
+
+CCpResource Images/3Stars.png build/Debug-iphonesimulator/Rating.app/3Stars.png
+r0
+
+CCpResource Images/3Stars@2x.png build/Debug-iphonesimulator/Rating.app/3Stars@2x.png
+r0
+
+CCpResource Images/3StarsSmall.png build/Debug-iphonesimulator/Rating.app/3StarsSmall.png
+r0
+
+CCpResource Images/3StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/3StarsSmall@2x.png
+r0
+
+CCpResource Images/4Stars.png build/Debug-iphonesimulator/Rating.app/4Stars.png
+r0
+
+CCpResource Images/4Stars@2x.png build/Debug-iphonesimulator/Rating.app/4Stars@2x.png
+r0
+
+CCpResource Images/4StarsSmall.png build/Debug-iphonesimulator/Rating.app/4StarsSmall.png
+r0
+
+CCpResource Images/4StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/4StarsSmall@2x.png
+r0
+
+CCpResource Images/5Stars.png build/Debug-iphonesimulator/Rating.app/5Stars.png
+r0
+
+CCpResource Images/5Stars@2x.png build/Debug-iphonesimulator/Rating.app/5Stars@2x.png
+r0
+
+CCpResource Images/5StarsSmall.png build/Debug-iphonesimulator/Rating.app/5StarsSmall.png
+r0
+
+CCpResource Images/5StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/5StarsSmall@2x.png
+r0
+
+CCpResource Images/Gestures.png build/Debug-iphonesimulator/Rating.app/Gestures.png
+r0
+
+CCpResource Images/Gestures@2x.png build/Debug-iphonesimulator/Rating.app/Gestures@2x.png
+r0
+
+CCpResource Images/Players.png build/Debug-iphonesimulator/Rating.app/Players.png
+r0
+
+CCpResource Images/Players@2x.png build/Debug-iphonesimulator/Rating.app/Players@2x.png
+r0
+
+CDataModelVersionCompile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Rating.momd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Rating.xcdatamodeld
+s426674704.478195
+e426674704.821422
+r1
+xDataModelVersionCompile
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Rating.momd
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Rating.xcdatamodeld
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile data model version /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Rating.xcdatamodeld109"[1mDataModelVersionCompile[0m build/Debug-iphonesimulator/Rating.app/Rating.momd Rating/Rating.xcdatamodeld8eae7a108a6eb941^624cd2108a6eb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Rating.xcdatamodeld/0000000000000000^949"[1mDataModelVersionCompile[0m build/Debug-iphonesimulator/Rating.app/Rating.momd Rating/Rating.xcdatamodeld    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -XD_MOMC_IOS_TARGET_VERSION=7.0 -MOMC_PLATFORMS iphonesimulator /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Rating.xcdatamodeld /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Rating.momd36"10BDD3D2-8CBD-45D3-A646-792F8E7938CC-
+b74CBF632-72FF-45A6-8013-5C5049AF1A56
+
+CGenerateDSYMFile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app.dSYM /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Rating
+r0
+
+CLd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Rating normal armv7
+r0
+
+CProcessInfoPlistFile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Info.plist /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Info.plist
+r0
+
+CTouch /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app
+r0
+

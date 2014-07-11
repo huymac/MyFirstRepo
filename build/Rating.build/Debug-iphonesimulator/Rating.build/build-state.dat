@@ -1,0 +1,397 @@
+TRating
+v7
+r1
+cCheck dependencies
+cDataModelVersionCompile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Rating.momd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Rating.xcdatamodeld
+cCpResource Images/5Stars@2x.png build/Debug-iphonesimulator/Rating.app/5Stars@2x.png
+cCpResource Images/4Stars.png build/Debug-iphonesimulator/Rating.app/4Stars.png
+cCpResource Images/5StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/5StarsSmall@2x.png
+cCpResource Images/1Star@2x.png build/Debug-iphonesimulator/Rating.app/1Star@2x.png
+cCpResource Images/2StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/2StarsSmall@2x.png
+cCpResource Images/Gestures.png build/Debug-iphonesimulator/Rating.app/Gestures.png
+cCpResource Images/2Stars@2x.png build/Debug-iphonesimulator/Rating.app/2Stars@2x.png
+cCpResource Images/2StarsSmall.png build/Debug-iphonesimulator/Rating.app/2StarsSmall.png
+cCpResource Images/4StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/4StarsSmall@2x.png
+cCpResource Images/Players@2x.png build/Debug-iphonesimulator/Rating.app/Players@2x.png
+cCpResource Images/3Stars.png build/Debug-iphonesimulator/Rating.app/3Stars.png
+cCpResource Images/2Stars.png build/Debug-iphonesimulator/Rating.app/2Stars.png
+cCpResource Images/3StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/3StarsSmall@2x.png
+cCpResource Images/3StarsSmall.png build/Debug-iphonesimulator/Rating.app/3StarsSmall.png
+cCompileStoryboard /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard
+cCpResource Images/4Stars@2x.png build/Debug-iphonesimulator/Rating.app/4Stars@2x.png
+cCpResource Images/5StarsSmall.png build/Debug-iphonesimulator/Rating.app/5StarsSmall.png
+cCpResource Images/4StarsSmall.png build/Debug-iphonesimulator/Rating.app/4StarsSmall.png
+cCpResource Images/Players.png build/Debug-iphonesimulator/Rating.app/Players.png
+cCpResource Images/1Star.png build/Debug-iphonesimulator/Rating.app/1Star.png
+cCpResource Images/1StarSmall@2x.png build/Debug-iphonesimulator/Rating.app/1StarSmall@2x.png
+cCpResource Images/5Stars.png build/Debug-iphonesimulator/Rating.app/5Stars.png
+cCpResource Images/3Stars@2x.png build/Debug-iphonesimulator/Rating.app/3Stars@2x.png
+cCpResource Images/Gestures@2x.png build/Debug-iphonesimulator/Rating.app/Gestures@2x.png
+cCpResource Images/1StarSmall.png build/Debug-iphonesimulator/Rating.app/1StarSmall.png
+cCompileAssetCatalog /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Images.xcassets
+cProcessInfoPlistFile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Info.plist /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Info.plist
+cTouch /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app
+
+CCheck dependencies
+r0
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesbf6562728a6eb941^dfe16e728a6eb941^-1533"warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayersViewController.h' of type sourcecode.c.h for architecture arm64warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.h' of type sourcecode.c.h for architecture arm64warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerDetailsViewController.m' of type sourcecode.c.objc for architecture arm64warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.m' of type sourcecode.c.objc for architecture arm64warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/main.m' of type sourcecode.c.objc for architecture arm64warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerCell.m' of type sourcecode.c.objc for architecture arm64warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/GamePickerViewController.m' of type sourcecode.c.objc for architecture arm64warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayersViewController.m' of type sourcecode.c.objc for architecture arm64warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Player.m' of type sourcecode.c.objc for architecture arm649(21%IDEActivityLogMessage2@173"Warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayersViewController.h' of type sourcecode.c.h for architecture arm64-426674802#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@163"Warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.h' of type sourcecode.c.h for architecture arm64-426674802#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@182"Warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerDetailsViewController.m' of type sourcecode.c.objc for architecture arm64-426674802#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@166"Warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.m' of type sourcecode.c.objc for architecture arm64-426674802#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@159"Warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/main.m' of type sourcecode.c.objc for architecture arm64-426674802#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@165"Warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerCell.m' of type sourcecode.c.objc for architecture arm64-426674802#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@179"Warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/GamePickerViewController.m' of type sourcecode.c.objc for architecture arm64-426674802#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@176"Warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayersViewController.m' of type sourcecode.c.objc for architecture arm64-426674802#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@161"Warning: no rule to process file '/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Player.m' of type sourcecode.c.objc for architecture arm64-426674802#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"55792D3C-2153-4DF5-BDE0-64C91F8B92AF-
+
+CCompileAssetCatalog /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Images.xcassets
+s426674802.461350
+e426674803.720871
+r1
+xCompileAssetCatalog
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/LaunchImage-700-568h@2x.png
+o/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/assetcatalog_generated_info.plist
+o
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile asset catalog /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Images.xcassets89"[1mCompileAssetCatalog[0m build/Debug-iphonesimulator/Rating.app Rating/Images.xcassets043b76728a6eb941^978bb8738a6eb941^-323"/* com.apple.actool.compilation-results *//Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/LaunchImage-700-568h@2x.png/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@92"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Images.xcassets/0000000000000000^1272"[1mCompileAssetCatalog[0m build/Debug-iphonesimulator/Rating.app Rating/Images.xcassets    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Images.xcassets36"F055F6E4-1F60-4434-9939-77DBAE512BAD-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426674704.479453
+e426674704.509109
+r0
+xCompileC
+xbuild/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.o
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: [0;1;31merror: [0m[1minvalid architecture 'arm' for deployment target '-mios-simulator-version-min=7.0'[0m
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.m212"[1mCompileC[0m build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.o Rating/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerace17a108a6eb941^d8f381108a6eb941^-249"clang: [0;1;31merror: [0m[1minvalid architecture 'arm' for deployment target '-mios-simulator-version-min=7.0'[0mCommand /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@130"Command /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-426674704#18446744073709551615#0#-2#--20"Apple LLVM 6.0 Error--0#0#1#-19%DVTDocumentLocation3@89"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.m0000000000000000^3905"[1mCompileC[0m build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.o Rating/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=116 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-prune-interval=86400 -fmodules-prune-after=345600 -Wnon-modular-include-in-framework-module -Werror=non-modular-include-in-framework-module -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wunreachable-code -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DOBJC_OLD_DISPATCH_PROTOTYPES=0 -isysroot /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -fexceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-generated-files.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-own-target-headers.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-all-target-headers.hmap -iquote /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-project-headers.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/include -I/Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/DerivedSources/armv7 -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/DerivedSources -F/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.d --serialize-diagnostics /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.dia -c /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/AppDelegate.m -o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/AppDelegate-16A298045770F884.o36"D6BA34DF-892A-4E17-9AA0-891144C0DA91-
+b74CBF632-72FF-45A6-8013-5C5049AF1A56
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/GamePickerViewController.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/GamePickerViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/Player.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Player.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerCell.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerDetailsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426674704.478550
+e426674704.508876
+r0
+xCompileC
+xbuild/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.o
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerDetailsViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: [0;1;31merror: [0m[1minvalid architecture 'arm' for deployment target '-mios-simulator-version-min=7.0'[0m
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerDetailsViewController.m227"[1mCompileC[0m build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.o Rating/PlayerDetailsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere2ae7a108a6eb941^81ec81108a6eb941^-249"clang: [0;1;31merror: [0m[1minvalid architecture 'arm' for deployment target '-mios-simulator-version-min=7.0'[0mCommand /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@130"Command /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-426674704#18446744073709551615#0#-2#--20"Apple LLVM 6.0 Error--0#0#1#-19%DVTDocumentLocation3@105"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerDetailsViewController.m0000000000000000^3933"[1mCompileC[0m build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.o Rating/PlayerDetailsViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=116 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-prune-interval=86400 -fmodules-prune-after=345600 -Wnon-modular-include-in-framework-module -Werror=non-modular-include-in-framework-module -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wunreachable-code -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DOBJC_OLD_DISPATCH_PROTOTYPES=0 -isysroot /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -fexceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-generated-files.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-own-target-headers.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-all-target-headers.hmap -iquote /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-project-headers.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/include -I/Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/DerivedSources/armv7 -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/DerivedSources -F/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.d --serialize-diagnostics /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.dia -c /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayerDetailsViewController.m -o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayerDetailsViewController.o36"702C5716-70B0-4C37-B4D4-4D548006840C-
+b74CBF632-72FF-45A6-8013-5C5049AF1A56
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/PlayersViewController-14D10173E3B3F27B.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/PlayersViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s426674704.479635
+e426674704.507925
+r0
+xCompileC
+xbuild/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.o
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oclang: [0;1;31merror: [0m[1minvalid architecture 'arm' for deployment target '-mios-simulator-version-min=7.0'[0m
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/main.m181"[1mCompileC[0m build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.o Rating/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler6bf47a108a6eb941^4be581108a6eb941^-249"clang: [0;1;31merror: [0m[1minvalid architecture 'arm' for deployment target '-mios-simulator-version-min=7.0'[0mCommand /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 11(21%IDEActivityLogMessage2@130"Command /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-426674704#18446744073709551615#0#-2#--20"Apple LLVM 6.0 Error--0#0#1#-19%DVTDocumentLocation3@82"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/main.m0000000000000000^3795"[1mCompileC[0m build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.o Rating/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=116 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-prune-interval=86400 -fmodules-prune-after=345600 -Wnon-modular-include-in-framework-module -Werror=non-modular-include-in-framework-module -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wunreachable-code -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DOBJC_OLD_DISPATCH_PROTOTYPES=0 -isysroot /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -fexceptions -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-generated-files.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-own-target-headers.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-all-target-headers.hmap -iquote /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Rating-project-headers.hmap -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/include -I/Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/DerivedSources/armv7 -I/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/DerivedSources -F/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.dia -c /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/main.m -o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/Objects-normal/armv7/main.o36"C6A520F5-69D8-45CF-9369-F2DE878F0FC3-
+b74CBF632-72FF-45A6-8013-5C5049AF1A56
+
+CCompileStoryboard /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard
+s426674802.448795
+e426674807.408294
+r1
+xCompileStoryboard
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard
+o/* com.apple.ibtool.document.warnings */
+o/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard:vXZ-lx-hvc: warning: Scene is unreachable due to lack of entry points and does not have an identifier for runtime access via -instantiateViewControllerWithIdentifier:. [9]
+o/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard:tuU-AG-5cm: warning: Prototype table cells must have reuse identifiers [9]
+o/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard:Etf-yG-10u: warning: Prototype table cells must have reuse identifiers [9]
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile Storyboard file /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard59"[1mCompileStoryboard[0m Rating/Base.lproj/Main.storyboard3ca173728a6eb941^2f8868778a6eb941^-639"/* com.apple.ibtool.document.warnings *//Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard:vXZ-lx-hvc: warning: Scene is unreachable due to lack of entry points and does not have an identifier for runtime access via -instantiateViewControllerWithIdentifier:./Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard:tuU-AG-5cm: warning: Prototype table cells must have reuse identifiers/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard:Etf-yG-10u: warning: Prototype table cells must have reuse identifiers3(21%IDEActivityLogMessage2@146"Scene is unreachable due to lack of entry points and does not have an identifier for runtime access via -instantiateViewControllerWithIdentifier:.-426674807#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@102"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-426674807#18446744073709551615#0#-1#-3@102"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#0#25"Unsupported Configuration--2@49"Prototype table cells must have reuse identifiers-426674807#18446744073709551615#0#-1#-3@102"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#0#25"Unsupported Configuration--0#0#1#-19%DVTDocumentLocation4@102"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard0000000000000000^964"[1mCompileStoryboard[0m Rating/Base.lproj/Main.storyboard    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin/..    /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --target-device iphone --errors --warnings --notices --module Rating --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Base.lproj/Main.storyboardc /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Base.lproj/Main.storyboard36"3DFE9DBD-1F64-41DF-87A5-81062D1FD18F-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/1Star.png build/Debug-iphonesimulator/Rating.app/1Star.png
+s426674802.455244
+e426674802.457439
+r1
+xCpResource
+xImages/1Star.png
+xbuild/Debug-iphonesimulator/Rating.app/1Star.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/1Star.png84"[1mCpResource[0m Images/1Star.png build/Debug-iphonesimulator/Rating.app/1Star.pnga9a274728a6eb941^d52375728a6eb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/1Star.png0000000000000000^700"[1mCpResource[0m Images/1Star.png build/Debug-iphonesimulator/Rating.app/1Star.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/1Star.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"BA6DEBF1-8AED-467D-A9A7-5D0A01A52135-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/1Star@2x.png build/Debug-iphonesimulator/Rating.app/1Star@2x.png
+s426674802.435552
+e426674802.439262
+r1
+xCpResource
+xImages/1Star@2x.png
+xbuild/Debug-iphonesimulator/Rating.app/1Star@2x.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/1Star@2x.png90"[1mCpResource[0m Images/1Star@2x.png build/Debug-iphonesimulator/Rating.app/1Star@2x.png52b76f728a6eb941^829070728a6eb941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/1Star@2x.png0000000000000000^709"[1mCpResource[0m Images/1Star@2x.png build/Debug-iphonesimulator/Rating.app/1Star@2x.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/1Star@2x.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"C34D19FF-9448-421F-BB81-26B49F1B4A0D-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/1StarSmall.png build/Debug-iphonesimulator/Rating.app/1StarSmall.png
+s426674802.460924
+e426674802.463882
+r1
+xCpResource
+xImages/1StarSmall.png
+xbuild/Debug-iphonesimulator/Rating.app/1StarSmall.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/1StarSmall.png94"[1mCpResource[0m Images/1StarSmall.png build/Debug-iphonesimulator/Rating.app/1StarSmall.pngde1c76728a6eb941^89ce76728a6eb941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/1StarSmall.png0000000000000000^715"[1mCpResource[0m Images/1StarSmall.png build/Debug-iphonesimulator/Rating.app/1StarSmall.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/1StarSmall.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"0F66134F-AF7B-4822-B161-1BEEEFAE18FC-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/1StarSmall@2x.png build/Debug-iphonesimulator/Rating.app/1StarSmall@2x.png
+s426674802.456501
+e426674802.458347
+r1
+xCpResource
+xImages/1StarSmall@2x.png
+xbuild/Debug-iphonesimulator/Rating.app/1StarSmall@2x.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/1StarSmall@2x.png100"[1mCpResource[0m Images/1StarSmall@2x.png build/Debug-iphonesimulator/Rating.app/1StarSmall@2x.pnge4f974728a6eb941^066675728a6eb941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/1StarSmall@2x.png0000000000000000^724"[1mCpResource[0m Images/1StarSmall@2x.png build/Debug-iphonesimulator/Rating.app/1StarSmall@2x.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/1StarSmall@2x.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"EAA62CF8-19AD-4CC0-9BCE-420576186912-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/2Stars.png build/Debug-iphonesimulator/Rating.app/2Stars.png
+s426674802.446511
+e426674802.449720
+r1
+xCpResource
+xImages/2Stars.png
+xbuild/Debug-iphonesimulator/Rating.app/2Stars.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/2Stars.png86"[1mCpResource[0m Images/2Stars.png build/Debug-iphonesimulator/Rating.app/2Stars.pngf56872728a6eb941^313f73728a6eb941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/2Stars.png0000000000000000^703"[1mCpResource[0m Images/2Stars.png build/Debug-iphonesimulator/Rating.app/2Stars.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/2Stars.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"86F7864D-80BE-4F2E-ACA3-80316FBE9752-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/2Stars@2x.png build/Debug-iphonesimulator/Rating.app/2Stars@2x.png
+s426674802.440942
+e426674802.444837
+r1
+xCpResource
+xImages/2Stars@2x.png
+xbuild/Debug-iphonesimulator/Rating.app/2Stars@2x.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/2Stars@2x.png92"[1mCpResource[0m Images/2Stars@2x.png build/Debug-iphonesimulator/Rating.app/2Stars@2x.pngfa2671728a6eb941^47e671728a6eb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/2Stars@2x.png0000000000000000^712"[1mCpResource[0m Images/2Stars@2x.png build/Debug-iphonesimulator/Rating.app/2Stars@2x.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/2Stars@2x.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"A5001444-84FA-4928-8673-AFB4F6DDA00A-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/2StarsSmall.png build/Debug-iphonesimulator/Rating.app/2StarsSmall.png
+s426674802.442110
+e426674802.444944
+r1
+xCpResource
+xImages/2StarsSmall.png
+xbuild/Debug-iphonesimulator/Rating.app/2StarsSmall.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/2StarsSmall.png96"[1mCpResource[0m Images/2StarsSmall.png build/Debug-iphonesimulator/Rating.app/2StarsSmall.png378971728a6eb941^67ee71728a6eb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/2StarsSmall.png0000000000000000^718"[1mCpResource[0m Images/2StarsSmall.png build/Debug-iphonesimulator/Rating.app/2StarsSmall.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/2StarsSmall.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"B1B50910-1DD2-405E-B2DD-72BFDEDCB33D-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/2StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/2StarsSmall@2x.png
+s426674802.439226
+e426674802.442417
+r1
+xCpResource
+xImages/2StarsSmall@2x.png
+xbuild/Debug-iphonesimulator/Rating.app/2StarsSmall@2x.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/2StarsSmall@2x.png102"[1mCpResource[0m Images/2StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/2StarsSmall@2x.png609470728a6eb941^b36171728a6eb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/2StarsSmall@2x.png0000000000000000^727"[1mCpResource[0m Images/2StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/2StarsSmall@2x.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/2StarsSmall@2x.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"821DCAEE-B5A7-4451-A171-A43C2D4E441E-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/3Stars.png build/Debug-iphonesimulator/Rating.app/3Stars.png
+s426674802.445114
+e426674802.448549
+r1
+xCpResource
+xImages/3Stars.png
+xbuild/Debug-iphonesimulator/Rating.app/3Stars.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/3Stars.png86"[1mCpResource[0m Images/3Stars.png build/Debug-iphonesimulator/Rating.app/3Stars.png014f72728a6eb941^290773728a6eb941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/3Stars.png0000000000000000^703"[1mCpResource[0m Images/3Stars.png build/Debug-iphonesimulator/Rating.app/3Stars.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/3Stars.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"73F30702-6BB6-4D48-B1B0-02D6944BA02E-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/3Stars@2x.png build/Debug-iphonesimulator/Rating.app/3Stars@2x.png
+s426674802.458498
+e426674802.460385
+r1
+xCpResource
+xImages/3Stars@2x.png
+xbuild/Debug-iphonesimulator/Rating.app/3Stars@2x.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/3Stars@2x.png92"[1mCpResource[0m Images/3Stars@2x.png build/Debug-iphonesimulator/Rating.app/3Stars@2x.png1d7475728a6eb941^9cde75728a6eb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/3Stars@2x.png0000000000000000^712"[1mCpResource[0m Images/3Stars@2x.png build/Debug-iphonesimulator/Rating.app/3Stars@2x.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/3Stars@2x.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"53EFAA3B-941C-4D5C-8270-2666009E0E86-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/3StarsSmall.png build/Debug-iphonesimulator/Rating.app/3StarsSmall.png
+s426674802.448159
+e426674802.451694
+r1
+xCpResource
+xImages/3StarsSmall.png
+xbuild/Debug-iphonesimulator/Rating.app/3StarsSmall.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/3StarsSmall.png96"[1mCpResource[0m Images/3StarsSmall.png build/Debug-iphonesimulator/Rating.app/3StarsSmall.png102473728a6eb941^b5a473728a6eb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/3StarsSmall.png0000000000000000^718"[1mCpResource[0m Images/3StarsSmall.png build/Debug-iphonesimulator/Rating.app/3StarsSmall.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/3StarsSmall.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"28BB2A35-5DE2-42AD-921D-581058AE5003-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/3StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/3StarsSmall@2x.png
+s426674802.447365
+e426674802.452678
+r1
+xCpResource
+xImages/3StarsSmall@2x.png
+xbuild/Debug-iphonesimulator/Rating.app/3StarsSmall@2x.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/3StarsSmall@2x.png102"[1mCpResource[0m Images/3StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/3StarsSmall@2x.pngd63873728a6eb941^33fc73728a6eb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/3StarsSmall@2x.png0000000000000000^727"[1mCpResource[0m Images/3StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/3StarsSmall@2x.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/3StarsSmall@2x.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"864955EC-D2E7-4680-984D-C59E233F5A50-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/4Stars.png build/Debug-iphonesimulator/Rating.app/4Stars.png
+s426674802.435091
+e426674802.439969
+r1
+xCpResource
+xImages/4Stars.png
+xbuild/Debug-iphonesimulator/Rating.app/4Stars.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/4Stars.png86"[1mCpResource[0m Images/4Stars.png build/Debug-iphonesimulator/Rating.app/4Stars.png7ac56f728a6eb941^f8c270728a6eb941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/4Stars.png0000000000000000^703"[1mCpResource[0m Images/4Stars.png build/Debug-iphonesimulator/Rating.app/4Stars.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/4Stars.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"47EAA66E-E547-4C4E-BC6A-7183231E25E9-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/4Stars@2x.png build/Debug-iphonesimulator/Rating.app/4Stars@2x.png
+s426674802.449952
+e426674802.454594
+r1
+xCpResource
+xImages/4Stars@2x.png
+xbuild/Debug-iphonesimulator/Rating.app/4Stars@2x.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/4Stars@2x.png92"[1mCpResource[0m Images/4Stars@2x.png build/Debug-iphonesimulator/Rating.app/4Stars@2x.png9e9a73728a6eb941^906674728a6eb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/4Stars@2x.png0000000000000000^712"[1mCpResource[0m Images/4Stars@2x.png build/Debug-iphonesimulator/Rating.app/4Stars@2x.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/4Stars@2x.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"42EB731F-E9BD-4D6F-869B-713733EF331A-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/4StarsSmall.png build/Debug-iphonesimulator/Rating.app/4StarsSmall.png
+s426674802.454037
+e426674802.457416
+r1
+xCpResource
+xImages/4StarsSmall.png
+xbuild/Debug-iphonesimulator/Rating.app/4StarsSmall.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/4StarsSmall.png96"[1mCpResource[0m Images/4StarsSmall.png build/Debug-iphonesimulator/Rating.app/4StarsSmall.png965d74728a6eb941^292075728a6eb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/4StarsSmall.png0000000000000000^718"[1mCpResource[0m Images/4StarsSmall.png build/Debug-iphonesimulator/Rating.app/4StarsSmall.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/4StarsSmall.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"14C4297D-37F3-451B-9860-03D46568F378-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/4StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/4StarsSmall@2x.png
+s426674802.442779
+e426674802.447187
+r1
+xCpResource
+xImages/4StarsSmall@2x.png
+xbuild/Debug-iphonesimulator/Rating.app/4StarsSmall@2x.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/4StarsSmall@2x.png102"[1mCpResource[0m Images/4StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/4StarsSmall@2x.png3fe071728a6eb941^058c72728a6eb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/4StarsSmall@2x.png0000000000000000^727"[1mCpResource[0m Images/4StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/4StarsSmall@2x.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/4StarsSmall@2x.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"1DC6877D-2E48-4973-B18A-DF766BC7C979-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/5Stars.png build/Debug-iphonesimulator/Rating.app/5Stars.png
+s426674802.458068
+e426674802.461587
+r1
+xCpResource
+xImages/5Stars.png
+xbuild/Debug-iphonesimulator/Rating.app/5Stars.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/5Stars.png86"[1mCpResource[0m Images/5Stars.png build/Debug-iphonesimulator/Rating.app/5Stars.pngaf5e75728a6eb941^333476728a6eb941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/5Stars.png0000000000000000^703"[1mCpResource[0m Images/5Stars.png build/Debug-iphonesimulator/Rating.app/5Stars.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/5Stars.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"6A817763-E51E-4640-BB67-98878576FBAE-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/5Stars@2x.png build/Debug-iphonesimulator/Rating.app/5Stars@2x.png
+s426674802.434776
+e426674802.438075
+r1
+xCpResource
+xImages/5Stars@2x.png
+xbuild/Debug-iphonesimulator/Rating.app/5Stars@2x.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/5Stars@2x.png92"[1mCpResource[0m Images/5Stars@2x.png build/Debug-iphonesimulator/Rating.app/5Stars@2x.pnga7b36f728a6eb941^4e4770728a6eb941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/5Stars@2x.png0000000000000000^712"[1mCpResource[0m Images/5Stars@2x.png build/Debug-iphonesimulator/Rating.app/5Stars@2x.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/5Stars@2x.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"C5C1CB5A-9406-4CD5-9782-53882D1D3BDA-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/5StarsSmall.png build/Debug-iphonesimulator/Rating.app/5StarsSmall.png
+s426674802.451886
+e426674802.453704
+r1
+xCpResource
+xImages/5StarsSmall.png
+xbuild/Debug-iphonesimulator/Rating.app/5StarsSmall.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/5StarsSmall.png96"[1mCpResource[0m Images/5StarsSmall.png build/Debug-iphonesimulator/Rating.app/5StarsSmall.png83da73728a6eb941^742774728a6eb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/5StarsSmall.png0000000000000000^718"[1mCpResource[0m Images/5StarsSmall.png build/Debug-iphonesimulator/Rating.app/5StarsSmall.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/5StarsSmall.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"FE4AC777-7984-489B-BCD0-79BA2A733889-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/5StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/5StarsSmall@2x.png
+s426674802.435261
+e426674802.440079
+r1
+xCpResource
+xImages/5StarsSmall@2x.png
+xbuild/Debug-iphonesimulator/Rating.app/5StarsSmall@2x.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/5StarsSmall@2x.png102"[1mCpResource[0m Images/5StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/5StarsSmall@2x.pngb91770728a6eb941^a12f71728a6eb941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/5StarsSmall@2x.png0000000000000000^727"[1mCpResource[0m Images/5StarsSmall@2x.png build/Debug-iphonesimulator/Rating.app/5StarsSmall@2x.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/5StarsSmall@2x.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"B6ED30B0-5673-467D-8E03-DACC666F01E4-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/Gestures.png build/Debug-iphonesimulator/Rating.app/Gestures.png
+s426674802.439928
+e426674802.442494
+r1
+xCpResource
+xImages/Gestures.png
+xbuild/Debug-iphonesimulator/Rating.app/Gestures.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/Gestures.png90"[1mCpResource[0m Images/Gestures.png build/Debug-iphonesimulator/Rating.app/Gestures.pnga6b670728a6eb941^b66871728a6eb941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/Gestures.png0000000000000000^709"[1mCpResource[0m Images/Gestures.png build/Debug-iphonesimulator/Rating.app/Gestures.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/Gestures.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"7415AB78-7DEA-40C9-898C-BF751FC2D732-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/Gestures@2x.png build/Debug-iphonesimulator/Rating.app/Gestures@2x.png
+s426674802.458915
+e426674802.461053
+r1
+xCpResource
+xImages/Gestures@2x.png
+xbuild/Debug-iphonesimulator/Rating.app/Gestures@2x.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/Gestures@2x.png96"[1mCpResource[0m Images/Gestures@2x.png build/Debug-iphonesimulator/Rating.app/Gestures@2x.png799175728a6eb941^4d0f76728a6eb941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/Gestures@2x.png0000000000000000^718"[1mCpResource[0m Images/Gestures@2x.png build/Debug-iphonesimulator/Rating.app/Gestures@2x.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/Gestures@2x.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"687B8E67-DCDE-46AC-8337-693AAF92B192-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/Players.png build/Debug-iphonesimulator/Rating.app/Players.png
+s426674802.454054
+e426674802.455797
+r1
+xCpResource
+xImages/Players.png
+xbuild/Debug-iphonesimulator/Rating.app/Players.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/Players.png88"[1mCpResource[0m Images/Players.png build/Debug-iphonesimulator/Rating.app/Players.pngfc5574728a6eb941^f1b874728a6eb941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/Players.png0000000000000000^706"[1mCpResource[0m Images/Players.png build/Debug-iphonesimulator/Rating.app/Players.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/Players.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"22B3BC9D-1D6B-4494-AE7D-9FD5FC82443E-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CCpResource Images/Players@2x.png build/Debug-iphonesimulator/Rating.app/Players@2x.png
+s426674802.444073
+e426674802.447300
+r1
+xCpResource
+xImages/Players@2x.png
+xbuild/Debug-iphonesimulator/Rating.app/Players@2x.png
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Copy /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/Players@2x.png94"[1mCpResource[0m Images/Players@2x.png build/Debug-iphonesimulator/Rating.app/Players@2x.png4cc671728a6eb941^369472728a6eb941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/Players@2x.png0000000000000000^715"[1mCpResource[0m Images/Players@2x.png build/Debug-iphonesimulator/Rating.app/Players@2x.png    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Images/Players@2x.png /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"6CB8F9C9-B153-4FE3-8A1C-749541086412-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CDataModelVersionCompile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Rating.momd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Rating.xcdatamodeld
+s426674704.478195
+e426674704.821422
+r1
+xDataModelVersionCompile
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Rating.momd
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Rating.xcdatamodeld
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile data model version /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Rating.xcdatamodeld109"[1mDataModelVersionCompile[0m build/Debug-iphonesimulator/Rating.app/Rating.momd Rating/Rating.xcdatamodeld8eae7a108a6eb941^624cd2108a6eb941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Rating.xcdatamodeld/0000000000000000^949"[1mDataModelVersionCompile[0m build/Debug-iphonesimulator/Rating.app/Rating.momd Rating/Rating.xcdatamodeld    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -XD_MOMC_IOS_TARGET_VERSION=7.0 -MOMC_PLATFORMS iphonesimulator /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Rating.xcdatamodeld /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Rating.momd36"10BDD3D2-8CBD-45D3-A646-792F8E7938CC-
+b74CBF632-72FF-45A6-8013-5C5049AF1A56
+
+CGenerateDSYMFile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app.dSYM /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Rating
+r0
+
+CLd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Rating normal armv7
+r0
+
+CProcessInfoPlistFile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Info.plist /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Info.plist
+s426674807.410371
+e426674807.412492
+r1
+xProcessInfoPlistFile
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Info.plist
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Info.plist
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Process /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Info.plist96"[1mProcessInfoPlistFile[0m build/Debug-iphonesimulator/Rating.app/Info.plist Rating/Info.plist601f69778a6eb941^139969778a6eb941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Info.plist0000000000000000^1000"[1mProcessInfoPlistFile[0m build/Debug-iphonesimulator/Rating.app/Info.plist Rating/Info.plist    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/Rating/Info.plist -genpkginfo /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Rating.build/Debug-iphonesimulator/Rating.build/assetcatalog_generated_info.plist -o /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/Info.plist36"7F0A6AFA-9C5E-4AF9-A5C0-65157AB3CBB7-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
+CTouch /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app
+s426674807.413033
+e426674807.420517
+r1
+xTouch
+x/Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Touch /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app52"[1mTouch[0m build/Debug-iphonesimulator/Rating.app49d669778a6eb941^8baa6b778a6eb941^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app/0000000000000000^499"[1mTouch[0m build/Debug-iphonesimulator/Rating.app    cd /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/Shared/Jenkins/Projects/MyFirstProj/MyFirstRepo/Rating/build/Debug-iphonesimulator/Rating.app36"CDAB3DD3-8425-42E1-8BCA-FAD98E276A14-
+b57CB7E54-8BE2-4441-AD3D-7E40A8EE8225
+
